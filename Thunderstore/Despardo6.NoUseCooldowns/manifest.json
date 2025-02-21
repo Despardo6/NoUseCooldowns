@@ -1,0 +1,9 @@
+{
+    "name": "NoUseCooldowns",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Despardo6/NoUseCooldowns",
+    "description": "Removes cooldowns from noise makers and objects like Jack o Lantern",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

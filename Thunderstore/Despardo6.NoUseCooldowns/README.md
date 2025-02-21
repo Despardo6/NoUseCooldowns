@@ -1,0 +1,1 @@
+This is a mod that removes cooldowns of *most* noise maker items and also of **all** interactable objects (Jack o Lantern, Plushie Pajama Man, etc.). This mod is mainly intended to be able to annoy my friends :) (and also remove annoying cooldowns added by ButteryFixes that are supposedly "*bug fixes*")
