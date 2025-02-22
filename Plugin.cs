@@ -10,7 +10,7 @@ namespace NoUseCooldowns.NoCooldowns
     {
         private const string PLUGIN_GUID = "Despardo6.NoUseCooldowns";
         private const string PLUGIN_NAME = "No use Cooldowns";
-        private const string PLUGIN_VERSION = "1.0.0";
+        private const string PLUGIN_VERSION = "1.0.1";
 
         internal static ManualLogSource Log;
 
@@ -39,7 +39,13 @@ namespace NoUseCooldowns.NoCooldowns
             "Laser pointer",
             "Boombox",
             "Weed killer",
-            "Radar-booster"
+            "Unnamed",
+            "Gnarpy",
+            "Arson Plush",
+            "Arson Plush (Dirty)",
+            "Cookie Fumo",
+            "Maxwell",
+            "Cat",
         };
 
 
